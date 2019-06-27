@@ -7,5 +7,6 @@ public class Demo01 {
         System.out.println("这是master分支");
         System.out.println("这是master分支进行的更新");
         System.out.println("dev进行更新");
+        System.out.println("李四解决了一个bug");
     }
 }
